@@ -268,7 +268,7 @@ public class GroupWindow implements ActionListener, KeyListener{
 		if(arg0.getSource() == addButton) {
 			contactName = getContactName();
 			try {
-				if(checkIfExists(contactName) && !contactName.equals(moi.getPseudo()) && !dlm.contains(contactName)) {
+				if(checkIfExists(contactName) && !contactName.equals(moi.getPseudo()) && dlm.getSize()<6 && !dlm.contains(contactName)) {
 						dlm.addElement(contactName);
 				}else {
 					JOptionPane.showMessageDialog(null, "Please select a contact that exists. And not your pseudo.");
