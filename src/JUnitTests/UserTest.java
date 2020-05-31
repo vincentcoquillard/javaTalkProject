@@ -9,7 +9,7 @@ class UserTest {
 	void testUser() {
 		fail("Not yet implemented");
 	}
-
+	
 	@Test
 	void testGetPseudo() {
 		fail("Not yet implemented");
