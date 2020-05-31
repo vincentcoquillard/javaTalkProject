@@ -14,6 +14,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
 import java.sql.*;
@@ -34,7 +35,8 @@ public class connectionWindow implements ActionListener{
 	private JLabel labelPassword = new JLabel("Password:  ");
 	private JLabel labelError = new JLabel("<html><p>You are not registered yet.<br>Or your Pseudo/Password is incorrect.</p></html>");
 	private JTextField pseudoText = new JTextField();
-	private JTextField passwordText = new JTextField();
+	private JPasswordField passwordText = new JPasswordField();
+	 
 	private JButton registerButton = new JButton("Register");
 	public  JButton connectionButton = new JButton("Sign in");
 	
@@ -46,7 +48,7 @@ public class connectionWindow implements ActionListener{
 	}
 	
 	public String getPassword() {
-		password = passwordText.getText();
+		password = String.valueOf(passwordText.getPassword());
 		return password;
 	}
 	
