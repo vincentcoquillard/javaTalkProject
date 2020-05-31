@@ -7,13 +7,13 @@ Each of us had specific tasks for the project.
 
 TSHIBUNZI Cippora Sagesse: Role: UML implementation, Client SERVER  Tasks:
 
-COQUILLARD Vincent: Role: Communication between database and software. Tasks: .
+COQUILLARD Vincent: Role: Communication between database and software. Tasks:
 
-TETU Raphaël: Role: Design of the software. Tasks:
+TETU Raphaël: Role: Design of the software. Tasks:Implementation of the messageWindow and all the design of the UI.
 
-SIBONI Elie:Role: Tasks:
+SIBONI Elie: Role: Tasks:
 
-CAZENAVE Vincent: Role: Interface implementation. Tasks:
+CAZENAVE Vincent: Role: Interface implementation. Tasks: Implementation of the ConnectionWindow, RegisterGUI, groupWindow; and messageWindow with Raphaël TETU.
 
 
 We chose to use the AGILE model using the scrum method for many reasons:
@@ -29,6 +29,12 @@ In order to create the list of requirements, we adopted two different point of v
 which functionalities we needed, the must ones and the other that are a plus to the software. Then, we adopted the point of view
 of developers and found non-functional requirements that were essentials to a software like that.
 
+
+For the design pattern used, we have chosen to use the MVC pattern. 
+     
+     -We will have a clear view of the project thanks to separation of the data, views and controller.
+     -It is easier to share the work in the group with the separation of the different part of the project. 
+     -we will be able to work at the same time without bothering other members. 
 
 
 
