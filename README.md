@@ -3,6 +3,8 @@
 We have to implement, using software development method, a chatroom a bit like whatsapp we called it "TALK". 
 The group is composed by TSHIBUNZI Cippora Sagesse, COQUILLARD Vincent, TETU Raphaël, SIBONI Elie and CAZENAVE Vincent.
 
+IN ORDER TO LAUNCH THE PROJECT, DOWNLOAD THE SoftwareProject EXECUTABLE - CAZENAVE-TETU-COQUILLARD-TSHIBUNZI-SIBONI.jar AND LAUNCH IT.
+
 READ ALSO : toRead.docx, integration_plan.docx, INTERFACE SPECIFICATIONS.docx
 
 Each of us had specific tasks for the project.
