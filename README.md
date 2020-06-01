@@ -3,17 +3,19 @@
 We have to implement, using software development method, a chatroom a bit like whatsapp we called it "TALK". 
 The group is composed by TSHIBUNZI Cippora Sagesse, COQUILLARD Vincent, TETU Raphaël, SIBONI Elie and CAZENAVE Vincent.
 
+READ ALSO : toRead.docx, integration_plan.docx, INTERFACE SPECIFICATIONS.docx
+
 Each of us had specific tasks for the project.
 
-TSHIBUNZI Cippora Sagesse: Role: UML, implementation, Client SERVER  Tasks:
+TSHIBUNZI Cippora Sagesse: Role: Preparator of the developing plan Tasks: UML, implementation, Client SERVER
 
-COQUILLARD Vincent: Role: Communication between database and software. Tasks:Programmation du lien avec la base de donnée and put the work on github
+COQUILLARD Vincent: Role: Developer. Tasks:Implementation of the link with the database and the display of the informations
 
-TETU Raphaël: Role: Design of the software. Tasks:Implementation of the messageWindow and all the design of the UI.
+TETU Raphaël: Role: Developer. Tasks:Implementation of the messageWindow and all the design of the UI.
 
 SIBONI Elie: Role : project chief Tasks : check on every member the avancement made every sprints set the new objectifs
 
-CAZENAVE Vincent: Role: Interface implementation. Tasks: Implementation of the ConnectionWindow, RegisterGUI, groupWindow; and messageWindow with Raphaël TETU.
+CAZENAVE Vincent: Role: Developer. Tasks: Implementation of the ConnectionWindow, RegisterGUI, groupWindow; and messageWindow with Raphaël TETU.
 
 
 We chose to use the AGILE model using the scrum method for many reasons:
