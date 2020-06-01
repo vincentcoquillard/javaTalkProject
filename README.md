@@ -1,17 +1,17 @@
 # javaTalkProject
 # Software-Project
-We have to implement, using software development method, a chatroom a bit like whatsapp. 
+We have to implement, using software development method, a chatroom a bit like whatsapp we called it "TALK". 
 The group is composed by TSHIBUNZI Cippora Sagesse, COQUILLARD Vincent, TETU Raphaël, SIBONI Elie and CAZENAVE Vincent.
 
 Each of us had specific tasks for the project.
 
 TSHIBUNZI Cippora Sagesse: Role: UML, implementation, Client SERVER  Tasks:
 
-COQUILLARD Vincent: Role: Communication between database and software. Tasks:
+COQUILLARD Vincent: Role: Communication between database and software. Tasks:Programmation du lien avec la base de donnée and put the work on github
 
 TETU Raphaël: Role: Design of the software. Tasks:Implementation of the messageWindow and all the design of the UI.
 
-SIBONI Elie: Role: Tasks:
+SIBONI Elie: Role : project chief Tasks : check on every member the avancement made every sprints set the new objectifs
 
 CAZENAVE Vincent: Role: Interface implementation. Tasks: Implementation of the ConnectionWindow, RegisterGUI, groupWindow; and messageWindow with Raphaël TETU.
 
